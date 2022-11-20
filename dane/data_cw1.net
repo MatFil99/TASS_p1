@@ -1,0 +1,654 @@
+*vertices 302
+1 "Baker Street" 0.0 0.0 ellipse
+2 Marylebone 0.0 0.0 ellipse
+3 "Regent's Park" 0.0 0.0 ellipse
+4 "Charing Cross" 0.0 0.0 ellipse
+5 Embankment 0.0 0.0 ellipse
+6 "Picadilly Circus" 0.0 0.0 ellipse
+7 "Edgware Road (B)" 0.0 0.0 ellipse
+8 Paddington 0.0 0.0 ellipse
+9 "Elephant & Castle" 0.0 0.0 ellipse
+10 "Lambeth North" 0.0 0.0 ellipse
+11 Waterloo 0.0 0.0 ellipse
+12 Harlesden 0.0 0.0 ellipse
+13 "Stonebridge Park" 0.0 0.0 ellipse
+14 "Willesden Junction" 0.0 0.0 ellipse
+15 "Harrow & Wealdston" 0.0 0.0 ellipse
+16 Kenton 0.0 0.0 ellipse
+17 "Kensal Green" 0.0 0.0 ellipse
+18 "Queen's Park" 0.0 0.0 ellipse
+19 "South Kenton" 0.0 0.0 ellipse
+20 "Kilburn Park" 0.0 0.0 ellipse
+21 "Maida Vale" 0.0 0.0 ellipse
+22 "Warwick Avenue" 0.0 0.0 ellipse
+23 "North Wembley" 0.0 0.0 ellipse
+24 "Wembley Central" 0.0 0.0 ellipse
+25 "Oxford Circus" 0.0 0.0 ellipse
+26 Bank 0.0 0.0 ellipse
+27 "Liverpool Street" 0.0 0.0 ellipse
+28 "St. Paul's" 0.0 0.0 ellipse
+29 Barkingside 0.0 0.0 ellipse
+30 Fairlop 0.0 0.0 ellipse
+31 "Newbury Park" 0.0 0.0 ellipse
+32 "Bethnal Green" 0.0 0.0 ellipse
+33 "Mile End" 0.0 0.0 ellipse
+34 "Bond Street" 0.0 0.0 ellipse
+35 "Marble Arch" 0.0 0.0 ellipse
+36 "Buckhurst Hill" 0.0 0.0 ellipse
+37 Loughton 0.0 0.0 ellipse
+38 Woodford 0.0 0.0 ellipse
+39 "Chancery Lane" 0.0 0.0 ellipse
+40 Holborn 0.0 0.0 ellipse
+41 Chigwell 0.0 0.0 ellipse
+42 "Grange Hill" 0.0 0.0 ellipse
+43 "Roding Valley" 0.0 0.0 ellipse
+44 Debden 0.0 0.0 ellipse
+45 "Theydon Bois" 0.0 0.0 ellipse
+46 "Ealing Broadway" 0.0 0.0 ellipse
+47 "West Acton" 0.0 0.0 ellipse
+48 "East Acton" 0.0 0.0 ellipse
+49 "North Acton" 0.0 0.0 ellipse
+50 "White City" 0.0 0.0 ellipse
+51 Epping 0.0 0.0 ellipse
+52 Hainault 0.0 0.0 ellipse
+53 "Gants Hill" 0.0 0.0 ellipse
+54 Redbridge 0.0 0.0 ellipse
+55 Greenford 0.0 0.0 ellipse
+56 Northolt 0.0 0.0 ellipse
+57 Perivale 0.0 0.0 ellipse
+58 "Hanger Lane" 0.0 0.0 ellipse
+59 "Tottenham Court Road" 0.0 0.0 ellipse
+60 "Holland Park" 0.0 0.0 ellipse
+61 "Notting Hill Gate" 0.0 0.0 ellipse
+62 "Shepherd's Bush (C)" 0.0 0.0 ellipse
+63 "Lancaster Gate" 0.0 0.0 ellipse
+64 Queensway 0.0 0.0 ellipse
+65 Leyton 0.0 0.0 ellipse
+66 Leytonstone 0.0 0.0 ellipse
+67 Stratford 0.0 0.0 ellipse
+68 Snaresbrook 0.0 0.0 ellipse
+69 Wanstead 0.0 0.0 ellipse
+70 "South Ruislip" 0.0 0.0 ellipse
+71 "Ruislip Gardens" 0.0 0.0 ellipse
+72 "West Ruislip" 0.0 0.0 ellipse
+73 "South Woodford" 0.0 0.0 ellipse
+74 Aldgate 0.0 0.0 ellipse
+75 "Tower Hill" 0.0 0.0 ellipse
+76 "Edgware Road (C)" 0.0 0.0 ellipse
+77 "Great Portland Street" 0.0 0.0 ellipse
+78 Barbican 0.0 0.0 ellipse
+79 Farringdon 0.0 0.0 ellipse
+80 Moorgate 0.0 0.0 ellipse
+81 Bayswater 0.0 0.0 ellipse
+82 Blackfriars 0.0 0.0 ellipse
+83 "Mansion House" 0.0 0.0 ellipse
+84 Temple 0.0 0.0 ellipse
+85 "Cannon Street" 0.0 0.0 ellipse
+86 Monument 0.0 0.0 ellipse
+87 Westminster 0.0 0.0 ellipse
+88 "Euston Square" 0.0 0.0 ellipse
+89 "King's Cross St. Pancras" 0.0 0.0 ellipse
+90 "Gloucester Road" 0.0 0.0 ellipse
+91 "High Street Kensington" 0.0 0.0 ellipse
+92 "South Kensington" 0.0 0.0 ellipse
+93 "Sloane Square" 0.0 0.0 ellipse
+94 Victoria 0.0 0.0 ellipse
+95 "St. James's Park" 0.0 0.0 ellipse
+96 "Aldgate East" 0.0 0.0 ellipse
+97 Whitechapel 0.0 0.0 ellipse
+98 Barking 0.0 0.0 ellipse
+99 "East Ham" 0.0 0.0 ellipse
+100 Upney 0.0 0.0 ellipse
+101 "Barons Court" 0.0 0.0 ellipse
+102 Hammersmith 0.0 0.0 ellipse
+103 "West Kensington" 0.0 0.0 ellipse
+104 Becontree 0.0 0.0 ellipse
+105 "Dagenham Heathway" 0.0 0.0 ellipse
+106 "Bow Road" 0.0 0.0 ellipse
+107 Bromley-By-Bow 0.0 0.0 ellipse
+108 "West Ham" 0.0 0.0 ellipse
+109 "Chiswick Park" 0.0 0.0 ellipse
+110 "Acton Town" 0.0 0.0 ellipse
+111 "Turnham Green" 0.0 0.0 ellipse
+112 "Dagenham East" 0.0 0.0 ellipse
+113 "Elm Park" 0.0 0.0 ellipse
+114 "Ealing Common" 0.0 0.0 ellipse
+115 "Earl's Court" 0.0 0.0 ellipse
+116 "Kensington (Olympia)" 0.0 0.0 ellipse
+117 "West Brompton" 0.0 0.0 ellipse
+118 "Upton Park" 0.0 0.0 ellipse
+119 "East Putney" 0.0 0.0 ellipse
+120 "Putney Bridge" 0.0 0.0 ellipse
+121 Southfields 0.0 0.0 ellipse
+122 Hornchurch 0.0 0.0 ellipse
+123 "Fulham Broadway" 0.0 0.0 ellipse
+124 "Parsons Green" 0.0 0.0 ellipse
+125 Gunnersbury 0.0 0.0 ellipse
+126 "Kew Gardens" 0.0 0.0 ellipse
+127 "Ravenscourt Park" 0.0 0.0 ellipse
+128 "Upminster Bridge" 0.0 0.0 ellipse
+129 Richmond 0.0 0.0 ellipse
+130 "Stepney Green" 0.0 0.0 ellipse
+131 Plaistow 0.0 0.0 ellipse
+132 "Stamford Brook" 0.0 0.0 ellipse
+133 "Wimbledon Park" 0.0 0.0 ellipse
+134 Upminster 0.0 0.0 ellipse
+135 Wimbledon 0.0 0.0 ellipse
+136 "All Saints" 0.0 0.0 ellipse
+137 "Devons Road" 0.0 0.0 ellipse
+138 Poplar 0.0 0.0 ellipse
+139 Shadwell 0.0 0.0 ellipse
+140 Beckton 0.0 0.0 ellipse
+141 "Gallions Reach" 0.0 0.0 ellipse
+142 "Beckton Park" 0.0 0.0 ellipse
+143 Cyprus 0.0 0.0 ellipse
+144 "Royal Albert" 0.0 0.0 ellipse
+145 Blackwall 0.0 0.0 ellipse
+146 "East India" 0.0 0.0 ellipse
+147 "Bow Church" 0.0 0.0 ellipse
+148 "Pudding Mill Lane" 0.0 0.0 ellipse
+149 "Canary Wharf" 0.0 0.0 ellipse
+150 "Heron Quays" 0.0 0.0 ellipse
+151 "West India Quay" 0.0 0.0 ellipse
+152 "Canning Town" 0.0 0.0 ellipse
+153 "Royal Victoria" 0.0 0.0 ellipse
+154 "Crossharbour & London Arena" 0.0 0.0 ellipse
+155 Mudchute 0.0 0.0 ellipse
+156 "South Quay" 0.0 0.0 ellipse
+157 "Custom House" 0.0 0.0 ellipse
+158 "Prince Regent" 0.0 0.0 ellipse
+159 "Cutty Sark" 0.0 0.0 ellipse
+160 Greenwich 0.0 0.0 ellipse
+161 "Island Gardens" 0.0 0.0 ellipse
+162 "Deptford Bridge" 0.0 0.0 ellipse
+163 "Elverson Road" 0.0 0.0 ellipse
+164 Lewisham 0.0 0.0 ellipse
+165 Limehouse 0.0 0.0 ellipse
+166 Westferry 0.0 0.0 ellipse
+167 "Tower Gateway" 0.0 0.0 ellipse
+168 "Canada Water" 0.0 0.0 ellipse
+169 Rotherhithe 0.0 0.0 ellipse
+170 "Surrey Quays" 0.0 0.0 ellipse
+171 "New Cross" 0.0 0.0 ellipse
+172 "New Cross Gate" 0.0 0.0 ellipse
+173 Wapping 0.0 0.0 ellipse
+174 Shoreditch 0.0 0.0 ellipse
+175 "Goldhawk Road" 0.0 0.0 ellipse
+176 "Shepherd's Bush (H)" 0.0 0.0 ellipse
+177 "Ladbroke Grove" 0.0 0.0 ellipse
+178 "Latimer Road" 0.0 0.0 ellipse
+179 "Westbourne Park" 0.0 0.0 ellipse
+180 "Royal Oak" 0.0 0.0 ellipse
+181 "St. John's Wood" 0.0 0.0 ellipse
+182 Bermondsey 0.0 0.0 ellipse
+183 "London Bridge" 0.0 0.0 ellipse
+184 "Green Park" 0.0 0.0 ellipse
+185 "North Greenwich" 0.0 0.0 ellipse
+186 "Canons Park" 0.0 0.0 ellipse
+187 Queensbury 0.0 0.0 ellipse
+188 Stanmore 0.0 0.0 ellipse
+189 "Dollis Hill" 0.0 0.0 ellipse
+190 Neasden 0.0 0.0 ellipse
+191 "Willesden Green" 0.0 0.0 ellipse
+192 "Finchley Road" 0.0 0.0 ellipse
+193 "Swiss Cottage" 0.0 0.0 ellipse
+194 "West Hampstead" 0.0 0.0 ellipse
+195 Kilburn 0.0 0.0 ellipse
+196 Kingsbury 0.0 0.0 ellipse
+197 "Wembley Park" 0.0 0.0 ellipse
+198 Southwark 0.0 0.0 ellipse
+199 Amersham 0.0 0.0 ellipse
+200 "Chalfont & Latimer" 0.0 0.0 ellipse
+201 Chesham 0.0 0.0 ellipse
+202 Chorleywood 0.0 0.0 ellipse
+203 Rickmansworth 0.0 0.0 ellipse
+204 Croxley 0.0 0.0 ellipse
+205 "Moor Park" 0.0 0.0 ellipse
+206 Watford 0.0 0.0 ellipse
+207 Eastcote 0.0 0.0 ellipse
+208 "Rayners Lane" 0.0 0.0 ellipse
+209 "Ruislip Manor" 0.0 0.0 ellipse
+210 Harrow-on-the-Hill 0.0 0.0 ellipse
+211 "Northwick Park" 0.0 0.0 ellipse
+212 "North Harrow" 0.0 0.0 ellipse
+213 "West Harrow" 0.0 0.0 ellipse
+214 Hillingdon 0.0 0.0 ellipse
+215 Ickenham 0.0 0.0 ellipse
+216 Uxbridge 0.0 0.0 ellipse
+217 Ruislip 0.0 0.0 ellipse
+218 Northwood 0.0 0.0 ellipse
+219 "Preston Road" 0.0 0.0 ellipse
+220 "Northwood Hills" 0.0 0.0 ellipse
+221 Pinner 0.0 0.0 ellipse
+222 Angel 0.0 0.0 ellipse
+223 "Old Street" 0.0 0.0 ellipse
+224 Archway 0.0 0.0 ellipse
+225 Highgate 0.0 0.0 ellipse
+226 "Tufnell Park" 0.0 0.0 ellipse
+227 Balham 0.0 0.0 ellipse
+228 "Clapham South" 0.0 0.0 ellipse
+229 "Tooting Bec" 0.0 0.0 ellipse
+230 "Belsize Park" 0.0 0.0 ellipse
+231 "Chalk Farm" 0.0 0.0 ellipse
+232 Hampstead 0.0 0.0 ellipse
+233 Borough 0.0 0.0 ellipse
+234 "Brent Cross" 0.0 0.0 ellipse
+235 "Golders Green" 0.0 0.0 ellipse
+236 "Hendon Central" 0.0 0.0 ellipse
+237 "Burnt Oak" 0.0 0.0 ellipse
+238 Colindale 0.0 0.0 ellipse
+239 Edgware 0.0 0.0 ellipse
+240 "Camden Town" 0.0 0.0 ellipse
+241 Euston 0.0 0.0 ellipse
+242 "Kentish Town" 0.0 0.0 ellipse
+243 "Mornington Crescent" 0.0 0.0 ellipse
+244 "Leicester Square" 0.0 0.0 ellipse
+245 "Clapham Common" 0.0 0.0 ellipse
+246 "Clapham North" 0.0 0.0 ellipse
+247 Stockwell 0.0 0.0 ellipse
+248 "Colliers Wood" 0.0 0.0 ellipse
+249 "South Wimbledon" 0.0 0.0 ellipse
+250 "Tooting Broadway" 0.0 0.0 ellipse
+251 "East Finchley" 0.0 0.0 ellipse
+252 "Finchley Central" 0.0 0.0 ellipse
+253 Kennington 0.0 0.0 ellipse
+254 "Warren Street" 0.0 0.0 ellipse
+255 "Mill Hill East" 0.0 0.0 ellipse
+256 "West Finchley" 0.0 0.0 ellipse
+257 "Goodge Street" 0.0 0.0 ellipse
+258 "High Barnet" 0.0 0.0 ellipse
+259 "Totteridge & Whetstone" 0.0 0.0 ellipse
+260 Oval 0.0 0.0 ellipse
+261 Morden 0.0 0.0 ellipse
+262 "Woodside Park" 0.0 0.0 ellipse
+263 "South Ealing" 0.0 0.0 ellipse
+264 Alperton 0.0 0.0 ellipse
+265 "Park Royal" 0.0 0.0 ellipse
+266 "Sudbury Town" 0.0 0.0 ellipse
+267 "Arnos Grove" 0.0 0.0 ellipse
+268 "Bounds Green" 0.0 0.0 ellipse
+269 Southgate 0.0 0.0 ellipse
+270 Arsenal 0.0 0.0 ellipse
+271 "Finsbury Park" 0.0 0.0 ellipse
+272 "Holloway Road" 0.0 0.0 ellipse
+273 "Boston Manor" 0.0 0.0 ellipse
+274 Northfields 0.0 0.0 ellipse
+275 Osterley 0.0 0.0 ellipse
+276 "Wood Green" 0.0 0.0 ellipse
+277 "Caledonian Road" 0.0 0.0 ellipse
+278 Cockfosters 0.0 0.0 ellipse
+279 Oakwood 0.0 0.0 ellipse
+280 "Covent Garden" 0.0 0.0 ellipse
+281 "North Ealing" 0.0 0.0 ellipse
+282 "Manor House" 0.0 0.0 ellipse
+283 "Hyde Park Corner" 0.0 0.0 ellipse
+284 "Hatton Cross" 0.0 0.0 ellipse
+285 "Heathrow Terminals 1, 2 & 3" 0.0 0.0 ellipse
+286 "Heathrow Terminal 4" 0.0 0.0 ellipse
+287 "Hounslow West" 0.0 0.0 ellipse
+288 "Russell Square" 0.0 0.0 ellipse
+289 "Hounslow Central" 0.0 0.0 ellipse
+290 "Hounslow East" 0.0 0.0 ellipse
+291 Knightsbridge 0.0 0.0 ellipse
+292 "Turnpike Lane" 0.0 0.0 ellipse
+293 "South Harrow" 0.0 0.0 ellipse
+294 "Sudbury Hill" 0.0 0.0 ellipse
+295 "Blackhorse Road" 0.0 0.0 ellipse
+296 "Tottenham Hale" 0.0 0.0 ellipse
+297 "Walthamstow Central" 0.0 0.0 ellipse
+298 Brixton 0.0 0.0 ellipse
+299 "Highbury & Islington" 0.0 0.0 ellipse
+300 "Seven Sisters" 0.0 0.0 ellipse
+301 Pimlico 0.0 0.0 ellipse
+302 Vauxhall 0.0 0.0 ellipse
+*edges
+1 2 1
+1 3 2
+1 76 3
+1 77 3
+1 34 2
+1 181 4
+1 192 6
+2 7 2
+3 25 2
+4 5 1
+4 6 2
+4 244 2
+5 11 2
+5 84 2
+5 87 2
+6 25 2
+6 184 1
+6 244 2
+7 8 3
+8 22 2
+8 81 2
+8 76 4
+8 180 1
+9 10 3
+9 233 1
+9 253 2
+10 11 1
+11 198 1
+11 87 2
+11 253 3
+11 26 4
+12 13 2
+12 14 2
+13 24 3
+14 17 3
+15 16 2
+16 19 2
+17 18 3
+18 20 2
+19 23 2
+20 21 2
+21 22 1
+23 24 2
+25 34 1
+25 59 2
+25 184 2
+25 254 2
+26 27 2
+26 28 2
+26 139 2
+26 183 2
+26 80 3
+26 86 1
+27 32 3
+27 74 2
+27 80 2
+27 96 4
+28 39 2
+29 30 2
+29 31 2
+30 52 2
+31 53 3
+32 33 2
+33 67 4
+33 106 1
+33 130 2
+34 35 1
+34 184 2
+35 63 3
+36 37 3
+36 38 3
+37 44 2
+38 43 3
+38 73 2
+39 40 1
+40 59 2
+40 280 1
+40 288 2
+41 42 2
+41 43 2
+42 52 3
+44 45 3
+45 51 2
+46 47 3
+46 114 4
+47 49 2
+48 49 2
+48 50 3
+49 58 3
+50 62 3
+53 54 2
+54 69 2
+55 56 2
+55 57 2
+56 70 3
+57 58 2
+59 257 1
+59 244 1
+60 61 2
+60 62 1
+61 64 2
+61 81 2
+61 91 3
+63 64 1
+65 66 3
+65 67 2
+66 68 2
+66 69 2
+67 148 2
+67 108 3
+68 73 2
+70 71 1
+71 72 3
+74 75 4
+75 86 2
+75 96 2
+77 88 2
+78 79 1
+78 80 2
+79 89 4
+80 223 1
+82 83 1
+82 84 2
+83 85 1
+85 86 2
+87 95 2
+87 184 3
+88 89 2
+89 222 2
+89 241 2
+89 277 5
+89 288 2
+89 299 4
+90 91 4
+90 92 1
+90 115 2
+91 115 3
+92 93 2
+92 291 3
+93 94 2
+94 95 2
+94 184 2
+94 301 3
+96 97 2
+97 130 3
+97 139 2
+97 174 2
+98 99 4
+98 100 2
+99 118 2
+100 104 2
+101 102 2
+101 103 2
+101 115 3
+102 127 2
+102 175 2
+102 111 2
+103 115 1
+104 105 3
+105 112 4
+106 107 2
+107 108 2
+108 131 2
+108 152 3
+109 110 2
+109 111 2
+110 114 2
+110 263 4
+110 111 3
+111 125 3
+111 132 1
+112 113 3
+113 122 2
+114 281 3
+115 116 2
+115 117 2
+117 123 1
+118 131 2
+119 120 2
+119 121 2
+120 124 3
+121 133 3
+122 128 2
+123 124 2
+125 126 3
+126 129 3
+127 132 2
+128 134 3
+133 135 3
+136 137 2
+136 138 2
+137 147 2
+138 145 2
+138 166 2
+138 151 2
+139 165 2
+139 167 2
+139 173 1
+140 141 2
+141 143 2
+142 143 2
+142 144 2
+144 158 2
+145 146 2
+146 152 2
+147 148 2
+149 150 2
+149 151 2
+149 168 3
+149 185 3
+150 156 2
+151 166 2
+152 153 2
+152 185 3
+153 157 2
+154 155 2
+154 156 2
+155 161 2
+157 158 2
+159 160 2
+159 161 2
+160 162 2
+162 163 2
+163 164 2
+165 166 2
+168 169 1
+168 170 2
+168 182 2
+169 173 1
+170 171 4
+170 172 4
+175 176 1
+176 178 2
+177 178 1
+177 179 2
+179 180 2
+181 193 1
+182 183 3
+183 198 2
+183 233 2
+184 283 2
+186 187 2
+186 188 2
+187 196 2
+189 190 2
+189 191 2
+190 197 4
+191 195 2
+192 193 2
+192 194 1
+192 197 7
+194 195 2
+196 197 4
+197 219 3
+199 200 4
+200 201 8
+200 202 4
+202 203 4
+203 205 4
+204 205 4
+204 206 3
+205 218 3
+207 208 2
+207 209 2
+208 213 3
+208 293 3
+209 217 2
+210 211 2
+210 212 3
+210 213 2
+211 219 2
+212 221 3
+214 215 2
+214 216 3
+215 217 3
+218 220 2
+220 221 2
+222 223 3
+224 225 3
+224 226 2
+225 251 2
+226 242 2
+227 228 2
+227 229 1
+228 245 2
+229 250 2
+230 231 2
+230 232 2
+231 240 2
+232 235 4
+234 235 3
+234 236 2
+236 238 3
+237 238 2
+237 239 3
+240 241 3
+240 242 2
+240 243 1
+241 243 2
+241 254 1
+244 280 1
+245 246 2
+246 247 1
+247 260 3
+247 298 2
+247 302 3
+248 249 2
+248 250 2
+249 261 4
+251 252 4
+252 255 3
+252 256 2
+253 260 2
+254 257 2
+256 262 1
+258 259 3
+259 262 3
+263 274 1
+264 265 3
+264 266 2
+265 281 2
+266 294 3
+267 268 3
+267 269 3
+268 276 2
+269 279 3
+270 271 2
+270 272 1
+271 282 2
+271 299 2
+271 300 4
+272 277 2
+273 274 2
+273 275 3
+275 290 2
+276 292 2
+278 279 4
+282 292 3
+283 291 2
+284 285 3
+284 286 3
+284 287 4
+285 286 5
+287 289 2
+289 290 2
+293 294 2
+295 296 2
+295 297 2
+296 300 3
+301 302 1
